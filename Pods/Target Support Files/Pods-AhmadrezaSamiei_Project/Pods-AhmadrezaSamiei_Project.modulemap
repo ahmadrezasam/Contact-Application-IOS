@@ -1,0 +1,6 @@
+framework module Pods_AhmadrezaSamiei_Project {
+  umbrella header "Pods-AhmadrezaSamiei_Project-umbrella.h"
+
+  export *
+  module * { export * }
+}
